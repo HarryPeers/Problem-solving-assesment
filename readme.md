@@ -16,7 +16,7 @@ The system need only cater for 10 items
 
  
 
-**Requirements **
+**Requirements**
 
  
 
